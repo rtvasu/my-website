@@ -10,7 +10,7 @@ export default class Posts extends React.Component {
           <li>
             <NavLink to="/live-clock">Live Clock</NavLink>
           </li>
-        </div>
+        </div>   
       )
     }
   }
