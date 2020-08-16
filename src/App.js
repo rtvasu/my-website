@@ -11,7 +11,6 @@ class App extends Component {
           <Navigation />
             <Switch>
               <Route path="/" component={Home} exact/>
-              {/* <Route path="/live-clock" component={liveClock}/> */}
            </Switch>
         </div> 
       </HashRouter>
