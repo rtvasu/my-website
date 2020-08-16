@@ -9,7 +9,6 @@ export default class Upcoming extends React.Component {
           <li> Explaining milestone Leetcode answers </li>
           <li> My animated journey over the last few years </li>
         </div>
-        
       )
     }
   }
