@@ -8,6 +8,7 @@ export default class Upcoming extends React.Component {
           <h1> Upcoming </h1>
           <li> Explaining milestone Leetcode answers </li>
           <li> My animated journey over the last few years </li>
+          <li> 360 environment </li>
         </div>
       )
     }
