@@ -33,7 +33,7 @@ class Links extends React.Component {
   render() {
     return (
       <div>
-        <h1> Links </h1>
+        <h2> Links </h2>
         <li>
           <a 
             href="https://github.com/rtvasu"

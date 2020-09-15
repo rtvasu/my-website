@@ -5,7 +5,9 @@ const Navigation = () => {
     return (
        <div>
             <NavLink to="/live-clock"></NavLink>
-            <NavLink to="/">HOME</NavLink>
+            <NavLink to="/" style={{textDecoration: 'none'}}>
+                <h1> HOME </h1>
+            </NavLink>
        </div>
     );
 }

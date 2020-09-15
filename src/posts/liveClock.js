@@ -41,8 +41,8 @@ export default class Clock extends React.Component {
     return (
       <div>
         <h1>Live Clock</h1>
-        <h2>Today is {this.state.date.toDateString()}.</h2>
-        <h2>The time is {this.state.date.toLocaleTimeString()}.</h2>
+        <h3>Today is {this.state.date.toDateString()}.</h3>
+        <h3>The time is {this.state.date.toLocaleTimeString()}.</h3>
       </div>
     );
   }

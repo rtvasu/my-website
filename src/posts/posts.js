@@ -6,9 +6,11 @@ export default class Posts extends React.Component {
     render() {
       return (
         <div>
-          <h1> Posts </h1>
+          <h2> Posts </h2>
           <li>
-            <NavLink to="/live-clock">Live Clock</NavLink>
+            <NavLink to="/live-clock">
+              Live Clock
+            </NavLink>
           </li>
         </div>   
       )
